@@ -1,6 +1,7 @@
 <template>
     <div>
-        <h1>项目开荒</h1>
+        <h1>你好</h1>
+        <h2>hahahaha</h2>
     </div>
 </template>
 
